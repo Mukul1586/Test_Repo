@@ -1,5 +1,4 @@
-<<<<<<< HEAD
+
 changes made as per hotfix branch
-=======
+
 changes made in file1.txt in future branch
->>>>>>> future_branch1
